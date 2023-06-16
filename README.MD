@@ -16,7 +16,7 @@ To Start Server:
 `npm run dev`  
 
 Netlify link:
-https://exquisite-cobbler-fc6046.netlify.app/dashboard
+https://exquisite-cobbler-fc6046.netlify.app
 
 Login credentials:
 admin@gmail.com
