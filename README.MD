@@ -15,6 +15,12 @@ To Start Server:
 
 `npm run dev`  
 
+Netlify link:
+https://exquisite-cobbler-fc6046.netlify.app/dashboard
+
+Login credentials:
+admin@gmail.com
+admin123
 
 ## Technical decisions
 
@@ -31,3 +37,4 @@ To Start Server:
 * Add atomic lib on state managment.
 * Add carrousel component on "ongoing mission" buttons on mobile version.
 * Add animations on menus,boxes and charts.
+* Add feedback when user fails on login.
